@@ -7,9 +7,7 @@ Notebooks from IBM AI Engineering Professional by Coursera.
     <img src="https://user-images.githubusercontent.com/39946753/94976350-56575600-0532-11eb-8d92-502980b693e4.png" width="30%" height="30%" title="Deep Learning AI Specialization Certificate" >
 </p>
 
-<h3 align="center">IBM AI Engineering Professional Certificate</h3>
-
-[Link](https://github.com/ansariparvej/IBM_AI_Engineering_Professional_Certificate_Coursera/blob/main/Credly_badges/IBMAIEngineeringProfessionalCertificateV2_Badge20231025-29-9p7gzc.pdf)
+[IBM AI Engineering Professional Certificate](https://github.com/ansariparvej/IBM_AI_Engineering_Professional_Certificate_Coursera/blob/main/Credly_badges/IBMAIEngineeringProfessionalCertificateV2_Badge20231025-29-9p7gzc.pdf)
 
 ## Individual Courses:
 
