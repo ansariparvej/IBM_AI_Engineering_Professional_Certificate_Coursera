@@ -9,9 +9,7 @@ Notebooks from IBM AI Engineering Professional by Coursera.
 
 <h3 align="center">IBM AI Engineering Professional Certificate</h3>
 
-<p align="center">
-<img src="[https://github.com/ansariparvej/IBM_AI_Engineering_Professional_Certificate_Coursera/blob/main/Credly_badges/IBMAIEngineeringProfessionalCertificateV2_Badge20231025-29-9p7gzc.pdf]" width="70%" height="60%" title="learning scope" >
-</p>
+[Link](https://github.com/ansariparvej/IBM_AI_Engineering_Professional_Certificate_Coursera/blob/main/Credly_badges/IBMAIEngineeringProfessionalCertificateV2_Badge20231025-29-9p7gzc.pdf)
 
 ## Individual Courses:
 
