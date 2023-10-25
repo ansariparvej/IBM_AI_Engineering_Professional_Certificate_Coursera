@@ -15,10 +15,10 @@ Notebooks from IBM AI Engineering Professional by Coursera.
 
 ## Individual Courses:
 
-1. [Machine Learning with Python](https://github.com/vishwajeettewari/IBM-AI-Engineering-Professional/tree/master/Machine%20Learning%20with%20Python)
-2. [Introduction to Deep Learning & Neural Networks with Keras](https://github.com/vishwajeettewari/IBM-AI-Engineering-Professional/tree/master/Introduction%20to%20Deep%20Learning%20%26%20Neural%20Networks%20with%20Keras)
-3. [Introduction to Computer Vision and Image Processing](https://github.com/vishwajeettewari/IBM-AI-Engineering-Professional/tree/master/Introduction%20to%20Deep%20Learning%20%26%20Neural%20Networks%20with%20Keras)
-4. [Deep Neural Networks with PyTorch](https://github.com/vishwajeettewari/IBM-AI-Engineering-Professional/tree/master/Deep%20Neural%20Networks%20with%20PyTorch)
-5. [Building Deep Learning Models with TensorFlow](https://github.com/vishwajeettewari/IBM-AI-Engineering-Professional/tree/master/Building%20Deep%20Learning%20Models%20with%20TensorFlow)
-6. [AI Capstone Project with Deep Learning](https://github.com/vishwajeettewari/IBM-AI-Engineering-Professional/tree/master/AI%20Capstone%20Project%20with%20Deep%20Learning)
+1. [Machine Learning with Python](https://github.com/ansariparvej/IBM_AI_Engineering_Professional_Certificate_Coursera/blob/main/Certificates/1.%20Machine%20Learning%20with%20Python.pdf)
+2. [Introduction to Deep Learning & Neural Networks with Keras](https://github.com/ansariparvej/IBM_AI_Engineering_Professional_Certificate_Coursera/blob/main/Certificates/2.%20Introduction%20to%20Deep%20Learning%20%26%20Neural%20Networks%20with%20Keras.pdf)
+3. [Introduction to Computer Vision and Image Processing](https://github.com/ansariparvej/IBM_AI_Engineering_Professional_Certificate_Coursera/blob/main/Certificates/3.%20Introduction%20to%20Computer%20Vision%20and%20Image%20Processing.pdf)
+4. [Deep Neural Networks with PyTorch](https://github.com/ansariparvej/IBM_AI_Engineering_Professional_Certificate_Coursera/blob/main/Certificates/4.%20Deep%20Neural%20Networks%20with%20PyTorch.pdf)
+5. [Building Deep Learning Models with TensorFlow](https://github.com/ansariparvej/IBM_AI_Engineering_Professional_Certificate_Coursera/blob/main/Certificates/5.%20Building%20Deep%20Learning%20Models%20with%20TensorFlow.pdf)
+6. [AI Capstone Project with Deep Learning](https://github.com/ansariparvej/IBM_AI_Engineering_Professional_Certificate_Coursera/blob/main/Certificates/6.%20AI%20Capstone%20Project%20with%20Deep%20Learning.pdf)
 
